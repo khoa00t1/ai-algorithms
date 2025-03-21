@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: KHOA-FAQ
+title: KAKA-FAQ
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about Software, AI and IC technologies.
@@ -42,6 +42,7 @@ just_the_docs:
     "GitHub repository":
       - "https://github.com/your-repo"
 
+source: C:/dev/jekyll/blog_src/blog/blogs/khoakaka.com/docs
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
