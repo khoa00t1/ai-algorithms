@@ -153,48 +153,55 @@
     
     "relUrl": "/software-technical/design-pattern/"
   },"22": {
-    "doc": "Welcome to KAKA Blog",
+    "doc": "Welcome",
     "title": "Welcome to KAKA Blog",
     "content": "Welcome to Kaka’s Blog, where we explore topics related to Software Development, AI, and IC Technologies. Dive into our latest posts and resources to enhance your knowledge. ",
-    "url": "/",
+    "url": "/#welcome-to-kaka-blog",
     
-    "relUrl": "/"
+    "relUrl": "/#welcome-to-kaka-blog"
   },"23": {
-    "doc": "Welcome to KAKA Blog",
+    "doc": "Welcome",
     "title": "Featured Topics",
     "content": ". | Software Development | Artificial Intelligence | Integrated Circuits | . ",
     "url": "/#featured-topics",
     
     "relUrl": "/#featured-topics"
   },"24": {
-    "doc": "Welcome to KAKA Blog",
+    "doc": "Welcome",
     "title": "Latest Posts",
     "content": ". | Understanding Design Patterns | Getting Started with Elasticsearch | Monitoring with Grafana | . ",
     "url": "/#latest-posts",
     
     "relUrl": "/#latest-posts"
   },"25": {
-    "doc": "Welcome to KAKA Blog",
+    "doc": "Welcome",
     "title": "About This Blog",
     "content": "This blog is dedicated to sharing knowledge and insights about cutting-edge technologies. Whether you’re a beginner or an expert, you’ll find valuable content here. ",
     "url": "/#about-this-blog",
     
     "relUrl": "/#about-this-blog"
   },"26": {
-    "doc": "Welcome to KAKA Blog",
+    "doc": "Welcome",
     "title": "Contact",
     "content": "Have questions or suggestions? Feel free to reach out at your-email@example.com. ",
     "url": "/#contact",
     
     "relUrl": "/#contact"
   },"27": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"28": {
     "doc": "Software English",
     "title": "Software English",
     "content": "Welcome to the Software English section of our blog. This category is dedicated to helping software developers, engineers, and enthusiasts improve their English language skills in the context of software development. Whether you’re a non-native English speaker looking to enhance your technical vocabulary or a native speaker aiming to refine your communication skills, this section has something for you. Thank you for visiting the Software English section. Back to Home . ",
     "url": "/software-english/",
     
     "relUrl": "/software-english/"
-  },"28": {
+  },"29": {
     "doc": "Software Technical",
     "title": "Software Technical",
     "content": "Thank you for visiting the Software Technical section. Back to Home . ",
